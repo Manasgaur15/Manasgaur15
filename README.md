@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="github_banner.png" alt="Manas Gaur — Cloud & DevOps Engineer" width="100%" />
+  <img src="assets/github_banner.png" alt="Manas Gaur — Cloud & DevOps Engineer" width="100%" />
 </p>
 
 ## Hi, I'm Manas 👋
@@ -46,11 +46,6 @@ Cloud & DevOps Engineer focused on turning manual, fragile processes into automa
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manasgaur15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Manas's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasgaur15&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manasgaur15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
